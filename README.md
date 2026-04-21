@@ -5,7 +5,7 @@
 
 [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-blue?logo=curseforge&logoColor=white)](https://neoforged.net/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green?logo=minecraft&logoColor=white)](https://minecraft.net)
-[![Memory](https://img.shields.io/badge/ОЗУ-6--8ГБ-orange)](https://github.com)
+[![Memory](https://img.shields.io/badge/ОЗУ-6--8ГБ-orange)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
 **Техническая сборка без магии | Исследование биомов | Летательные аппараты**
