@@ -83,13 +83,15 @@
 
 ## 📦 Полный список модов
 
-### 🔧 Основные моды (обязательно)
+### 🔧 Create и Create like моды
 
 | Мод | Ссылка | Описание |
 |:----|:-------|:---------|
 | **Create** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) | Основа сборки — механизмы, вращение, автоматизация |
 | **Create: Aeronautics** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) | Летательные аппараты с физикой (дирижабли, самолёты) |
 | **Sable** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sable) | Библиотека физики (необходима для Aeronautics) |
+| **Copycats+** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-copycats-plus) | Декоративные блоки-копии для красивого дизайна |
+| **Enchantment Industry** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) | Автоматизация зачарований (жидкий опыт) |
 
 ---
 
@@ -112,9 +114,8 @@
 | **Steam 'n' Rails** | [GitHub](https://github.com/Porters-of-Railways/Railway-1.21.1) | Улучшенные поезда и рельсы |
 | **Connected** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-connected) | Умные механизмы — сцепления, батареи, коробки передач |
 | **Stuff 'N Additions** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions) | Джетпаки, бур, дроны, экзоскелеты |
-| **Enchantment Industry** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) | Автоматизация зачарований (жидкий опыт) |
 | **Molten Vents** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents) | Вулканические жерла для добычи руд |
-| **Copycats+** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-copycats-plus) | Декоративные блоки-копии для красивого дизайна |
+
 
 ---
 
