@@ -137,7 +137,6 @@
 | **JEI** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei) | Показывает все рецепты крафта |
 | **Jade** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade) | Информация о блоках под прицелом |
 | **JourneyMap** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journeymap) | Карта мира с отметками |
-| **Traveler's Backpack** | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) | Рюкзаки с увеличенным инвентарём |
 
 ---
 
